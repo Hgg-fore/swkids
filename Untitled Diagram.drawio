@@ -1,50 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T09:40:11.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="nUcKJptMWeWRUY9G3EYM" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-31T13:00:11.801Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="cooUJZmh01qk9MrSYbGl" version="15.8.6" type="github">
   <diagram id="HKtOg7FvqVkkArwWiLkR" name="Page-1">
-    <mxGraphModel dx="782" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FCI9UHjk3fXekdvX8f5i-3" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="229" y="316" width="511" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="FCI9UHjk3fXekdvX8f5i-8" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="FCI9UHjk3fXekdvX8f5i-3" target="FCI9UHjk3fXekdvX8f5i-7" edge="1">
+        <mxCell id="FCI9UHjk3fXekdvX8f5i-8" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FCI9UHjk3fXekdvX8f5i-3" target="FCI9UHjk3fXekdvX8f5i-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="289" y="236" as="targetPoint" />
+            <mxPoint x="270" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FCI9UHjk3fXekdvX8f5i-1" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;家园共育&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=top;gradientColor=#97d077;" parent="1" vertex="1">
-          <mxGeometry x="249" y="396" width="210" height="150" as="geometry" />
+        <mxCell id="FCI9UHjk3fXekdvX8f5i-3" value="家长购买书籍后，&lt;br&gt;关系链映射到商城" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="210" y="190" width="511" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="FCI9UHjk3fXekdvX8f5i-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;商城&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#fff2cc;strokeColor=#d6b656;align=center;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="507" y="396" width="210" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="FCI9UHjk3fXekdvX8f5i-6" value="小程序框架" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="249" y="331" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FCI9UHjk3fXekdvX8f5i-7" value="希沃橙掌平台" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=18;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="239" y="150" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="FCI9UHjk3fXekdvX8f5i-9" value="引流(强制关注)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="359" y="251" width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FCI9UHjk3fXekdvX8f5i-11" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;fontColor=#FF0000;strokeColor=#006658;fillColor=#21C0A5;" parent="1" source="FCI9UHjk3fXekdvX8f5i-10" target="FCI9UHjk3fXekdvX8f5i-3" edge="1">
+        <mxCell id="FCI9UHjk3fXekdvX8f5i-4" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="FCI9UHjk3fXekdvX8f5i-1" target="FCI9UHjk3fXekdvX8f5i-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FCI9UHjk3fXekdvX8f5i-10" value="PC端教学二维码" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontSize=14;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="40" y="356" width="120" height="60" as="geometry" />
+        <mxCell id="FCI9UHjk3fXekdvX8f5i-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;家园共育&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="230" y="270" width="144" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="FCI9UHjk3fXekdvX8f5i-15" value="引流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="169" y="361" width="40" height="20" as="geometry" />
+        <mxCell id="FCI9UHjk3fXekdvX8f5i-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;分销商城&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="559" y="270" width="136" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="qIqD_2K8HQaZ93IEWBGF-4" value="C端教学方案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="40" y="55" width="130" height="30" as="geometry" />
+        <mxCell id="FCI9UHjk3fXekdvX8f5i-6" value="亲子学习中心小程序框架" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="230" y="205" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qIqD_2K8HQaZ93IEWBGF-5" value="班级功能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="258.5" y="480" width="81" height="39" as="geometry" />
+        <mxCell id="FCI9UHjk3fXekdvX8f5i-7" value="希沃橙掌平台" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=18;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="220" y="24" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qIqD_2K8HQaZ93IEWBGF-6" value="活动打卡" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="367" y="480" width="81" height="39" as="geometry" />
+        <mxCell id="FCI9UHjk3fXekdvX8f5i-9" value="引流(强制关注)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="340" y="125" width="110" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="FCI9UHjk3fXekdvX8f5i-11" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;fontColor=#FF0000;strokeColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="FCI9UHjk3fXekdvX8f5i-10" target="FCI9UHjk3fXekdvX8f5i-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FCI9UHjk3fXekdvX8f5i-10" value="PC端教学二维码" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontSize=14;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="20" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FCI9UHjk3fXekdvX8f5i-15" value="引流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="150" y="235" width="40" height="20" as="geometry" />
+        </mxCell>
+        <UserObject label="详细" link="https://www.draw.io" id="FCI9UHjk3fXekdvX8f5i-16">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;rounded=0;sketch=0;fontSize=14;" vertex="1" parent="1">
+            <mxGeometry x="270" y="360" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
